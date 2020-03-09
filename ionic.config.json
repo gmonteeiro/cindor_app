@@ -1,0 +1,7 @@
+{
+  "name": "cindor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
